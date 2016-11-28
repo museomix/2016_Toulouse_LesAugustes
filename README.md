@@ -12,3 +12,7 @@ Un dialogue s'entame entre les bustes d'[Auguste](https://fr.wikipedia.org/wiki/
 3. Raspberry Pi
 4. Amplificateur sonore
 5. Enceintes stéréo (une par buste)
+
+## Remarque
+
+Le code de ce dépôt ne concerne que celui présent sur le _Raspberry Pi_
