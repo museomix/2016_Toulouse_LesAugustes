@@ -15,4 +15,4 @@ Un dialogue s'entame entre les bustes d'[Auguste](https://fr.wikipedia.org/wiki/
 
 ## Remarque
 
-Le code de ce dépôt ne concerne que celui présent sur le _Raspberry Pi_
+Le code de ce dépôt ne concerne que celui présent sur le _Raspberry Pi_.
