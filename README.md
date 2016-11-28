@@ -4,7 +4,7 @@ Les bustes et les objets antiques sortent du silence et nous parlent...
 Immersion sensorielle et auditive pour comprendre leur histoire intime.
 
 ## Fonctionnement
-Un dialogue s'entame entre les bustes d'Auguste et de Livie à l'approche d'un visiteur.
+Un dialogue s'entame entre les bustes d'[Auguste](https://fr.wikipedia.org/wiki/Auguste) et de [Livie](https://fr.wikipedia.org/wiki/Livie) à l'approche d'un visiteur.
 
 ## Architecture technique et flux de données
 1. Détecteur de présence par ultrason
